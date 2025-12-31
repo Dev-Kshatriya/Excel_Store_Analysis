@@ -11,8 +11,7 @@ This repository contains an Excel file that showcases various data analyses and 
 - **Easily Accessible:** Hosted online for easy access and interaction without the need for downloading large files.
 
 ## How to Access
-To view and interact with the Excel file, click on the following link: [[Open Excel File](https://csulb-my.sharepoint.com/:x:/g/personal/aasthadineshsingh_kshatriya01_student_csulb_edu/EZTvFVCumkVLrrJU_85DA48B0amXkQnmWZ4_-nrEsveqVA?e=Jk8sUX)](#) # Store Data Analysis Project
-
+To view and interact with the Excel file, please download the Excel file from [repository](https://github.com/Dev-Kshatriya/Excel_Store_Analysis/)
 ## Project Overview
 This repository contains an Excel file that showcases various data analyses and visualizations relevant to store performance metrics. The file includes detailed graphs that help in understanding trends, patterns, and insights derived from store data.
 
